@@ -1,2 +1,2 @@
 # Face-Recognition-App
-This web app is mading using the following web technologies:
+This web app will be made using React, Node, & MongoDB
